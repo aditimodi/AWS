@@ -20,5 +20,3 @@ https://lastminuteengineers.com/bme280-arduino-tutorial/
 
 9. Publish the information to device: Thingsboard or Arduino board platform
 10. check steps here: https://thingsboard.io/docs/devices-library/esp32-dev-kit-v1/
-
-![image](https://github.com/aditimodi/AWS/assets/20784558/81fc6e2c-ba34-4d39-b412-f9d1c74dbb43)
